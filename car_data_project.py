@@ -1,5 +1,5 @@
 # ## First attempt
-# ## Words but doesn't store user entry beyond the sesion lines 3-30
+# ## Worls but doesn't store user entry beyond the sesion, lines 3-30
 # from dataclasses import dataclass
 
 # @dataclass
@@ -28,7 +28,8 @@
 #     print(f"Manufacturer:{found_car.manu}, Model:{found_car.mod} Year:{found_car.year}")
 # else:
 #     print("User not found.")
-
+# Second attempt, works and stores new entries in the JSON file. Still only allows searchiung
+# by manufacturer/brand, and will load everyone that has that manu class. 
 import json
 from dataclasses import dataclass, asdict
 
