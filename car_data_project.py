@@ -1,5 +1,5 @@
 # ## First attempt
-# ## Worls but doesn't store user entry beyond the sesion, lines 3-30
+# ## Works but doesn't store user entry beyond the sesion, lines 3-30
 # from dataclasses import dataclass
 
 # @dataclass
