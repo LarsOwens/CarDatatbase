@@ -1,0 +1,37 @@
+[
+    {
+        "manu": "Nissan",
+        "mod": "350z",
+        "year": 2003
+    },
+    {
+        "manu": "Mazda",
+        "mod": "RX-7",
+        "year": 1997
+    },
+    {
+        "manu": "Subaru",
+        "mod": "Impreza",
+        "year": 1995
+    },
+    {
+        "manu": "Toyota",
+        "mod": "Supra",
+        "year": 1994
+    },
+    {
+        "manu": "Ford",
+        "mod": "Ranger",
+        "year": 1985
+    },
+    {
+        "manu": "Mazda",
+        "mod": "rx8",
+        "year": 2008
+    },
+    {
+        "manu": "Cadillac",
+        "mod": "CTS-V",
+        "year": 2021
+    }
+]
